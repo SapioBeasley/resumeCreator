@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "build": "tsc",
+    "createDocument": "ts-node createGoogleDoc.ts"
+  },
+  "name": "resume-creator",
+  "version": "1.0.0",
+  "description": "Creates a google document given the provided content and contains a single template",
+  "main": "dist/createGoogleDoc.js",
+  "dependencies": {
+    "dayjs": "^1.11.11",
+    "googleapis": "^137.1.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SapioBeasley/resumeCreator.git"
+  },
+  "author": "Andreas Beasley <andreas@sapioweb.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SapioBeasley/resumeCreator/issues"
+  },
+  "homepage": "https://github.com/SapioBeasley/resumeCreator#readme"
+}
