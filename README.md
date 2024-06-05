@@ -144,5 +144,3 @@ This project is licensed under the MIT License.
 ### Issues
 
 If you encounter any issues, please report them [here](https://github.com/SapioBeasley/resumeCreator/issues).
-
-To add an image located in the root directory to the `README.md` file, you can use the following Markdown syntax. Here's the updated `README.md` file with the image included:
