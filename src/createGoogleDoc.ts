@@ -2,7 +2,7 @@ import createBlankDocument from './modules/createBlankDocument';
 import createHeaderFooter from './modules/createHeaderFooter';
 import populateHeaderFooter from './modules/populateHeaderFooter';
 import updateDocumentStyles from './modules/updateDocumentStyles';
-import { content, headerContent, footerContent } from './content';
+import { content, headerContent, footerContent } from '../content';
 
 import populateDocumentBody from './modules/populateDocumentBody';
 
